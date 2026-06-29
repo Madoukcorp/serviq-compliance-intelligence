@@ -8,3 +8,6 @@ dist/
 build/
 scripts.zip
 frontend/
+# Local recovery dumps (full duplicate app copies) — never commit
+/_recover_zip/
+/scripts/
